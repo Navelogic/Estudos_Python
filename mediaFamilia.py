@@ -1,5 +1,6 @@
 print('PROGRAMA PARA SABER A IDADE MÉDIA DE UMA FAMÍLIA');
 print('_________________________________________________');
+
 pai = 42;
 mae = 38;
 filho = 18;
