@@ -8,3 +8,4 @@
 print (int('1') + 1);
 print (bool(''));
 print (bool(' '));
+print(str(11) + 'b');
