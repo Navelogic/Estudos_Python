@@ -6,3 +6,5 @@
 #Ato de converter um tipo em outro.
 
 print (int('1') + 1);
+print (bool(''));
+print (bool(' '));
